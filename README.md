@@ -25,7 +25,7 @@ My name is Agorism, I am from Alemnha and I am studying programming, which has b
 **We change the world every day. But to change the world in a meaningful way takes much longer than people have. It never happens at the same time. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it**
 
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=SystemsFrozen)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Agorism)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h3 align="center">Connect with me</h3>
