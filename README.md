@@ -1,4 +1,4 @@
-#                                                      SYSTEMS FROZEN - *BLACK PASS*
+#                                                          **Agorism**
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/785030740130922506/albert.gif"/>
 
