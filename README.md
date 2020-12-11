@@ -11,7 +11,7 @@ My name is Agorism, I am from Alemnha and I am studying programming, which has b
 
 ![](https://komarev.com/ghpvc/?username=systemfrozen&color=000000)
 
-[![Twitter Badge](https://img.shields.io/badge/-@systemfrozen-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/systemfrozen)](https://twitter.com/systemfrozen) 
+[![Twitter Badge](https://img.shields.io/badge/-@Ag0rism-2ccce9?style=flat-square&labelColor=2ccce9&logo=twitter&logoColor=white&link=https://twitter.com/Ag0rism)](https://twitter.com/Ag0rism) 
 [![Gmail Badge](https://img.shields.io/badge/-educadofofo@gmail.com-2ccce9?style=flat-square&logo=Gmail&logoColor=white&link=mailto:educadofofo@gmail.com)](mailto:educadofofo@gmail.com)
 
 ### Spotify Playing 🎧
