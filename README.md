@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" src="https://cdn.discordapp.com/attachments/784644417378058340/785030740130922506/albert.gif"/>
 
-My name is Agorism, I am from Alemnha and I am studying programming, which has been working as a social engineer for Black Pass since 2020. 📝
+My name is Agorism, I am from Alemnha and I am studying programming, which has been working as a hacking for Destiny since 2020. 📝
 
 ### "I only know I know nothing." 🧠
 
