@@ -7,7 +7,7 @@ My name is Agorism, I am from Alemnha and I am studying programming, which has b
 ### "I only know I know nothing." 🧠
 
 - 🌎 From Berlim / Alemanha
-- 🧪 Working for Black Pass
+- 🧪 Working for Destiny
 
 ![](https://komarev.com/ghpvc/?username=systemfrozen&color=000000)
 
