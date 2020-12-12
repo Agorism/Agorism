@@ -19,7 +19,7 @@ My name is Agorism, I am from Alemnha and I am studying programming, </br> which
 
 - 🛠 &nbsp; I am currently working with Nodejs, Mongodb, Javascript.
 - 🚀 &nbsp; At the moment, I am learning to live.
-- 👨💻 &nbsp; Most of my projects are available on Github. [Github](https://github.com/Ag0rism).
+- 💻 &nbsp; Most of my projects are available on Github. [Github](https://github.com/Ag0rism).
 - 💬 &nbsp; Ask me about anything here! I'm happy to help.
 - 👾 &nbsp; Curiosity: equal is not always the same in Javascript.
 
