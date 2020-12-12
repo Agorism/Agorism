@@ -14,7 +14,7 @@ which has been working as a hacking for Destiny since 2020. 📝
 
 [![](https://gitwar.herokuapp.com/badge?username=Agorism&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height=400" width="400" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
+<img align="right" height="400" width="400" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
 
 ### Talking about Personal Stuffs:
 
