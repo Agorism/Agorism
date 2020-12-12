@@ -13,13 +13,13 @@ My name is Agorism, I am from Alemnha and I am studying programming, </br> which
 
 [![](https://gitwar.herokuapp.com/badge?username=Agorism&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="370" width="370" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
+<img align="right" height="401" width="428" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
 
 ### Talking about Personal Stuffs:
 
-- 🛠 &nbsp; I am currently working with Nodejs, Mongodb, Javascript, <br /> Sql, etc.
+- 🛠 &nbsp; I am currently working with Nodejs, Mongodb, Javascript.
 - 🚀 &nbsp; At the moment, I am learning to live.
-- 👨🏻‍💻 &nbsp; Most of my projects are available on Github. [Github](https://github.com/Ag0rism).
+- 👨💻 &nbsp; Most of my projects are available on Github. [Github](https://github.com/Ag0rism).
 - 💬 &nbsp; Ask me about anything here! I'm happy to help.
 - 👾 &nbsp; Curiosity: equal is not always the same in Javascript.
 
