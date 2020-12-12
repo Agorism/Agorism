@@ -6,15 +6,14 @@
 
 ### "I only know I know nothing." 🧠 
 
-My name is Agorism, I am from Alemnha and I am studying programming, 
-which has been working as a hacking for Destiny since 2020. 📝
+My name is Agorism, I am from Alemnha and I am studying programming, </br> which has been working as a hacking for Destiny since 2020. 📝
 
 - 🌎 From Berlim / Alemanha
 - 🧪 Working for Destiny
 
 [![](https://gitwar.herokuapp.com/badge?username=Agorism&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="400" width="400" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
+<img align="right" height="370" width="370" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
 
 ### Talking about Personal Stuffs:
 
@@ -51,17 +50,6 @@ which has been working as a hacking for Destiny since 2020. 📝
 #
 
 <div align="center">
-
-
-  [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Agorism)](https://github.com/anuraghazra/github-readme-stats)
-
-
-  <h3 align="center">Connect with me</h3>
-  <p align="center">
-  <a href="/" target="blank"><img align="center" src="https://simpleicons.org/icons/discord.svg" alt="discord" height="30" width="30"/></a>
-  <a href="https://twitter.com/systemfrozen" target="blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="30" width="30"/></a>
-  <a href="https://twitch.tv/seshpsyc" target="blank"><img align="center" src="https://simpleicons.org/icons/twitch.svg" alt="twitch" height="30" width="30"/></a>
-  </p>
 
 </div>
  
