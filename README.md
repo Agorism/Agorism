@@ -4,7 +4,7 @@
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-00acee?style=flat-square&logo=Twitter&logoColor=white)](https://twitter.com/Ag0rism)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white)](https://instagram.com/)
 
-### "I only know I know nothing." 🧠 (https://visitor-badge.glitch.me/badge?page_id=Agorism.Agorism&style=flat-square&color=0088cc)
+### "I only know I know nothing." 🧠 
 
 My name is Agorism, I am from Alemnha and I am studying programming, which has been working as a hacking for Destiny since 2020. 📝
 
