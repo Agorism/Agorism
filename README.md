@@ -6,14 +6,15 @@
 
 ### "I only know I know nothing." 🧠 
 
-My name is Agorism, I am from Alemnha and I am studying programming, which has been working as a hacking for Destiny since 2020. 📝
+My name is Agorism, I am from Alemnha and I am studying programming, 
+which has been working as a hacking for Destiny since 2020. 📝
 
 - 🌎 From Berlim / Alemanha
 - 🧪 Working for Destiny
 
 [![](https://gitwar.herokuapp.com/badge?username=Agorism&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="250" width="375" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
+<img align="right" height=400" width="400" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
 
 ### Talking about Personal Stuffs:
 
