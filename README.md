@@ -10,7 +10,6 @@ My name is Agorism, I am from Alemnha and I am studying programming, </br> which
 
 - 🌎 From Berlim / Alemanha
 - 🧪 Working for Destiny
-
 [![](https://gitwar.herokuapp.com/badge?username=Agorism&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
 ### Talking about Personal Stuffs:
