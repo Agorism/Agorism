@@ -13,7 +13,7 @@ My name is Agorism, I am from Alemnha and I am studying programming, </br> which
 
 [![](https://gitwar.herokuapp.com/badge?username=Agorism&label=Gitwar%20Profile%20Score&style=for-the-badge&color=0088cc)](https://gitwar.herokuapp.com/)
 
-<img align="right" height="401" width="428" alt="" src="https://media.discordapp.net/attachments/787099997942448150/787324714183688202/cyber342.gif?width=401&height=428" />
+<img align="right" height="401" width="428" alt="" src="" />
 
 ### Talking about Personal Stuffs:
 
@@ -43,7 +43,7 @@ My name is Agorism, I am from Alemnha and I am studying programming, </br> which
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" alt="sass"></code>
 -->
 
-<img align="left" alt="GIF" src="https://media.discordapp.net/attachments/787099997942448150/787324686509146112/cyber321.gif" />
+<img align="left" alt="GIF" src="" />
 
 
 **We change the world every day. But to change the world in a meaningful way takes much longer than people have. It never happens at the same time. It's slow. It's methodical. It's exhausting. We don't all have the stomach for it**
