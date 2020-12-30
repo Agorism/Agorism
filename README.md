@@ -6,7 +6,7 @@
 
 ### "I only know I know nothing." 🧠 
 
-My name is Agorism, I am from Alemnha and I am studying programming, </br> which has been working as a hacking for Destiny since 2020. 📝
+My name is Agorism, I am from Alemanha and I am studying programming, </br> which has been working as a hacking for Destiny since 2020. 📝
 
 - 🌎 From Berlim / Alemanha
 - 🧪 Working for Destiny
